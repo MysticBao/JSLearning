@@ -14,5 +14,5 @@ function prepareLinks(){
 }
 // pop up window
 function popUp(href){
-    window.open(href, 'PopUp', 'width=320, height=480')
+    window.open(href, 'popup', 'width=200, height=100')
 }
